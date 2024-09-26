@@ -10,7 +10,7 @@ class SA extends Account{
     int acc_id;
     double acc_bal;
     SA(int id,String name,double bal,String email){
-        super(name:"balu", email:"b@gmail.com");
+        super('name':"balu", 'email':"b@gmail.com");
         this.acc_id=id;
         this.acc_bal=bal;
     }
