@@ -28,5 +28,6 @@ public class Hashsetthree {
         s1.containsAll(s2);
         System.out.println(s1);//[1,2,3,4]
         System.out.println(s2);//[3,4,5,6]
+       // System.out.println(s2);//[3,4,5,6]
     }
 }
